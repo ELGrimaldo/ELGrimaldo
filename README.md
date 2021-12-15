@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ELGrimaldo
-- 👀 I’m interested in digging deeper side of computing. 
-- 🌱 I’m currently learning git and github LoL
+- 👨‍🎓 I’m currently taking bachelor of science in computer science, with special track in software engineering. 
 
 <!---
 ELGrimaldo/ELGrimaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
