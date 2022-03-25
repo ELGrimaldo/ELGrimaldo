@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ELGrimaldo
-- 👨‍🎓 I’m currently taking bachelor of science in computer science, with special track in software engineering. 
+- 👨‍🎓 I’m currently taking Bachelor of Science in Computer Science, with special track in software engineering. 
 
 <!---
 ELGrimaldo/ELGrimaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
